@@ -1,0 +1,70 @@
+import re
+import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+import csv
+import pandas as pd
+
+output = []
+BASE_URL = 'https://www.sgdi.gov.sg/ministries'
+
+### code has been referenced from https://github.com/spaceraccoon/sgdi-scraper/blob/master/sgdiscraper.py
+
+r = requests.get('https://www.gov.sg/sgdi/ministries')
+soup = BeautifulSoup(r.text, "lxml")
+
+results = soup.find(class_="directory-list")
+### redacted due to Terms of Use ###
+
+## ministries
+
+r = requests.get('https://www.gov.sg/sgdi/ministries')
+soup = BeautifulSoup(r.text, "lxml")
+
+link = ### redacted due to Terms of Use ###
+base_url = 'https://www.sgdi.gov.sg'
+
+new  = []
+for a in link:
+    new1 = base_url + str(a)
+    new.append(new1)
+new
+
+## create df for scraped results 
+list_min = pd.DataFrame({
+    "name": name,
+    "rank": rank,
+})
+list_min.head()
+
+## label women 
+missus = (('Ms', 'Mdm', 'Mrs', 'Miss'))
+
+## loop to obtain scraped results
+final_list = []
+for i in new:
+  r = requests.get(i)
+  soup = BeautifulSoup(r.text, "lxml")
+  
+  agency = ### redacted due to Terms of Use ###
+  name = ### redacted due to Terms of Use ###
+  ranking = ### redacted due to Terms of Use ###
+  
+  list_min = pd.DataFrame({
+    "name": name,
+    "ranking": ranking
+  })
+
+  mask = list_min['ranking'].str.contains('Personal Assistant') 
+  list_min = list_min[~mask] #remove PAs
+  list_min.loc[list_min['name'].str.startswith(missus), 'gender'] = 'F' #add in female gender
+  list_min['agency'] = agency[0] #fill in agency
+  final_list.append(list_min)
+ministries = pd.concat(final_list)
+ministries
+
+## do the same for stat boards ##
+
+## combine min and stat board results
+df_all = pd.concat([ministries, sb])
+df_all
