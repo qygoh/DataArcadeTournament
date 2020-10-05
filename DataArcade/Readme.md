@@ -30,7 +30,7 @@ Below are some highlights from the public and private sector board data cleaning
 - For sherms to add in
 
 **For the private sector data**: 
-- The final data that made it to the notebook are that of 77 SGX Mainboard listed companies, and data of the board of directors are manually extracted from manual googling based company name outputs from Private_Scraper_1. Sadly, ran out of time to be able to crack and automate the process for all SGX listed companies.  
+- The final data that made it to the notebook are that of 67 SGX Mainboard listed companies, and data were manually extracted from manual googling based company name outputs from Private_Scraper_1. Sadly, ran out of time to be able to crack and automate the process for all SGX listed companies.  
 - The first scraper, Private_Scraper_1, churned out a total of 1892 SGX listed companies' information. Of these, 1025 were listed on SGX Mainboard and was registered in Singapore. 
 - To overcome the problem of each company storing the board of directors information on differing tabs/segments in their own coporate webpage, the idea was to come out with another scraper to retrieve the direct link from Google Search result (see PrivateScraper_2.ipynb). Thereafter, to use BeautifulSoup or any other scraping library to store all the HTML parsed information, potentially converting it all to text and use relevant python packages to extract keywords of interest. Definately ran out of time for this ambitious endeavour, but will continue to work on it in the future. 
 
