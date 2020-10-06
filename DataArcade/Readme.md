@@ -27,7 +27,9 @@ Shermaine was in charge of scraping [Singapore's Government Directory Website](h
 Below are some highlights from the public and private sector board data cleaning. 
 
 **For public sector data**: 
-- For sherms to add in
+- A web scraper was built to scrape the board members and senior leadership of ministries and statutory boards. 
+- Data wrangling to add in gender was done, women were easy to categorise given their salutations (e.g. Mdm, Ms etc.), by default, other names without salutations are categorised as men. For those with Dr, given the limited time, manual categorisation was done instead of using ML for example (a ML model to identify gender could possibly be explored for future work).
+- Further data wrangling was done to build the network of double-hats in government as well; basically a node-link table that records each double hat was created.
 
 **For the private sector data**: 
 - The final data that made it to the notebook are that of 67 SGX Mainboard listed companies, and data were manually extracted from manual googling based company name outputs from Private_Scraper_1. Sadly, ran out of time to be able to crack and automate the process for all SGX listed companies.  
