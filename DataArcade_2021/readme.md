@@ -10,7 +10,7 @@ The theme for this year's tournament is "Before & After". Before diving into our
 
 ### Organization of this Repo
 
-<to be edited further>
+//to be edited further//
   
 - **Tableau Submission_WGS84.twbx** : The output of the project, a Tableau story that showcases the data we have scraped and the analysis
 - **SCRAPERS** : oh boy did we build many scrapers
@@ -18,7 +18,7 @@ The theme for this year's tournament is "Before & After". Before diving into our
 
 ### Data Cleaning and Processing
 
-<to be edited further>
+//to be edited further//
   
 - How many sets of data collected
 - Work allocation
