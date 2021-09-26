@@ -14,7 +14,7 @@ As frequent and at times, irrational online shoppers, we decided that it would b
 
 We set about answering the loaded question above by analyzing the sales before and after the Double Digit Day Sale. As a wise anonynmous person once said: "If you don't know the difference between past and present, you will not understand the future". Our take of the theme will include analysis for "Before the Double Digit Day Sale", "During the Double Digit Day Sale" and "After the Double Digit Day Sale". 
 
-For the purposes of our case study, we have narrowed down the topic to cover the following: 
+For the purposes of this competition, we have narrowed down the topic to cover the following: 
 - Shopee Double Digit Day Flash Sales on 8/9/2021 (before), 9/9/2021 (during) and 10/9/2021 (after)
 
 ## Organization of this Repo
