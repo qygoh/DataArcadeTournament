@@ -4,7 +4,7 @@ DAT is an annual visual analytics competition exercise for officers serving in t
 
 The theme for this year's tournament is "Before & After". Before diving into our project proper, would like to warmly welcome Shan Yi into our group this year! Together we form the merry trio of Wong-Goh-See, so we named our group after a famous geographic coordinate system WGS84 :) 
 
-## Our Chosen Topic: All about the Double Digit Day Sales Hype
+## Our Chosen Topic: All about that Double Digit Day Sales Hype
 
 As frequent and at times, irrational online shoppers, we decided that it would be fun to try to answer a nagging question everytime we get bombared with yet another monthly Double Digit Day Sales Advertisement: 
 
@@ -12,11 +12,11 @@ As frequent and at times, irrational online shoppers, we decided that it would b
 
 **"Are Double Digit Day Sales really worth it? How do I know that the sale on that day is the best?"** 
 
-This topic lends itself well to this year's competition theme of "Before and After"... 
+This year's competition theme of "Before & After" lends itself really well to this topic, for we can set about answering the loaded question above by analyzing the sales before and after the Double Digit Day Sale. As a wise anonynmous persone once said: "If you don't know the difference between past and present, you will not understand the future", our take of the theme will include "Before the Double Digit Day Sale", "During the Double Digit Day Sale" and "After the Double Digit Day Sale". 
 
 // to be edited further//
 
-Case: Shoppee Double Digit Day sales on 8/9/2021 (before), 9/9/2021 (during) and 10/9/2021 (after).
+Case: Shopee Double Digit Day sales on 8/9/2021 (before), 9/9/2021 (during) and 10/9/2021 (after).
 
 ## Organization of this Repo
 
