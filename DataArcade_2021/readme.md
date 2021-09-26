@@ -17,13 +17,9 @@ We set about answering the loaded question above by analyzing the sales before a
 
 ## Some insights from our Data Cleaning and Processing
 
-A lot of data gathering and processing is needed to make this analysis possible. First, QY and Sherms had to create the webscrapers needed to collect real time information from the online platform and clean the data subsequently. Then, Shan Yi helped to set up and run the automated scraping during the event period. Data collected was then passed on for tableau visualization. 
+A lot of data gathering and processing is needed to make this analysis possible. QY and Sherms had to first create the webscrapers needed to collect real time information from the online platform and clean the data subsequently. Then, Shan Yi helped to set up and run the automated scraping during the event period. Data collected was then passed on for tableau visualization. 
 
-In total, approximately 14k rows of data was scrapped from the shopping webpages over the three days using a combination of Selenium and Beautiful Soup. 
-
-//to be edited further//
-- How many sets of data collected
-- highlights from the data processing. 
+In total, approximately 14k rows of data was scrapped from the shopping webpages over three days using two separate webscrapers. Both scrapers utilized a combination of Selenium and BeautifulSoup; the first scraper collected relevant pricing information and links to products. The second scraper then read through the collected links to retrieve more information such as brand and product categories. 
 
 ## Organization of this Repo
 
