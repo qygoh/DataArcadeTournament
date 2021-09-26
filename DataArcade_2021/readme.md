@@ -6,16 +6,24 @@ The theme for this year's tournament is "Before & After". Before diving into our
 
 ## Our Chosen Topic: All about that Double Digit Day Sales Hype
 
-As frequent and at times, irrational online shoppers, we decided that it would be fun to try to answer a nagging question everytime we get bombared with yet another monthly Double Digit Day Sales Advertisement: 
+As frequent and at times, irrational online shoppers, we decided that it would be fun to try to answer a nagging question that occurs everytime we get bombared with a monthly Double Digit Day Sales Advertisement: 
 
 ![99 Sale Advertisment gif](https://steadycompounding.com/wp-content/uploads/2021/08/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_99060ebb-1c53-462e-9b01-eac42541dbce_640x360.gif)
 
 **"Are Double Digit Day Sales really worth it? Am I getting good value in such sales?"** 
 
-We set about answering the loaded question above by analyzing the sales before and after the Double Digit Day Sale. As a wise anonynmous person once said: "If you don't know the difference between past and present, you will not understand the future". Our take of the theme will include analysis for "Before the Double Digit Day Sale", "During the Double Digit Day Sale" and "After the Double Digit Day Sale". 
-
-For the purposes of this competition, we have narrowed down the topic to cover the following: 
+We set about answering the loaded question above by analyzing the sales before and after the Double Digit Day Sale. For the purposes of this competition, we have narrowed down the scope to cover the following: 
 - Shopee Double Digit Day Flash Sales on 8/9/2021 (before), 9/9/2021 (during) and 10/9/2021 (after)
+
+## Some insights from our Data Cleaning and Processing
+
+A lot of data gathering and processing is needed to make this analysis possible. First, QY and Sherms had to create the webscrapers needed to collect real time information from the online platform and clean the data subsequently. Then, Shan Yi helped to set up and run the automated scraping during the event period. Data collected was then passed on for tableau visualization. 
+
+In total, approximately 14k rows of data was scrapped from the shopping webpages over the three days using a combination of Selenium and Beautiful Soup. 
+
+//to be edited further//
+- How many sets of data collected
+- highlights from the data processing. 
 
 ## Organization of this Repo
 
@@ -24,11 +32,3 @@ For the purposes of this competition, we have narrowed down the topic to cover t
 - **Tableau Submission_WGS84.twbx** : The output of the project, a Tableau story that showcases the data we have scraped and the analysis
 - **SCRAPERS** : oh boy did we build many scrapers
 - **all data processing ipynbs** : oh boy did we build many cleaning ipynbs
-
-## Data Cleaning and Processing
-
-//to be edited further//
-  
-- How many sets of data collected
-- Work allocation
-- highlights from the data processing. 
