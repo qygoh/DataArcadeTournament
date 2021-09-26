@@ -12,11 +12,7 @@ As frequent and at times, irrational online shoppers, we decided that it would b
 
 **"Are Double Digit Day Sales really worth it? How do I know that the sale on that day is the best?"** 
 
-This year's competition theme of "Before & After" lends itself really well to this topic, for we can set about answering the loaded question above by analyzing the sales before and after the Double Digit Day Sale. As a wise anonynmous persone once said: 
-
-"If you don't know the difference between past and present, you will not understand the future"
-
-Our take of the theme will include analysis for "Before the Double Digit Day Sale", "During the Double Digit Day Sale" and "After the Double Digit Day Sale". 
+We setet about answering the loaded question above by analyzing the sales before and after the Double Digit Day Sale. As a wise anonynmous person once said: "If you don't know the difference between past and present, you will not understand the future". Our take of the theme will include analysis for "Before the Double Digit Day Sale", "During the Double Digit Day Sale" and "After the Double Digit Day Sale". 
 
 // to be edited further//
 
