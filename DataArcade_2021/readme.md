@@ -25,4 +25,4 @@ In total, approximately 14k rows of data was scrapped from the webpages over thr
   
 - **Tableau Submission_WGS84.twbx** : The output of the project, a Tableau story that showcases the data we have scraped and the analysis
 - **Scrapers Folder** : Contains the two webscrapers as aforementioned
-- **Data Processing ipynbs** : Contains all the ipynbs created for the purposes of data cleaning and processing
+- **Data Cleaning Folder** : Contains all the ipynbs created for the purposes of data cleaning and processing
