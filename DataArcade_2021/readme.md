@@ -10,7 +10,7 @@ As frequent and at times, irrational online shoppers, we decided that it would b
 
 ![99 Sale Advertisment gif](https://steadycompounding.com/wp-content/uploads/2021/08/https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_99060ebb-1c53-462e-9b01-eac42541dbce_640x360.gif)
 
-**"Are Double Digit Day Sales really worth it? How do I know that the sale on that day is the best?"** 
+**"Are Double Digit Day Sales really worth it? Am I getting good value in such sales?"** 
 
 We set about answering the loaded question above by analyzing the sales before and after the Double Digit Day Sale. As a wise anonynmous person once said: "If you don't know the difference between past and present, you will not understand the future". Our take of the theme will include analysis for "Before the Double Digit Day Sale", "During the Double Digit Day Sale" and "After the Double Digit Day Sale". 
 
