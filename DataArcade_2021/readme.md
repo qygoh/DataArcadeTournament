@@ -17,12 +17,12 @@ We set about answering the loaded question above by analyzing the sales before a
 
 ## Some insights from our Data Cleaning and Processing
 
-A lot of data gathering and processing is needed to make this analysis possible. QY and Sherms had to first create webscrapers to collect real time information from webpages. Then, Shan Yi helped to set up and run the automated scraping during the event period. Data collected had to be further processed before being utilized for tableau visualization by the team. 
+A lot of data gathering and processing is needed to make this analysis possible. QY and Sherms had to first create webscrapers to collect real time information from webpages. Then, Shan Yi helped to set up and run the automated scraping during the event period. Finally, the data collected had to be further processed by QY before being utilized for tableau visualization by the team. 
 
 In total, approximately 14k rows of data was scrapped from the webpages over three days. This was done using two separate webscrapers, which utilized a combination of Selenium and BeautifulSoup. The first scraper was designed to collect relevant pricing information and links to products. The second scraper then read through the collected links to retrieve more information such as brand and product categories. 
 
 ## Organization of this Repo
   
-- **Tableau Submission_WGS84.twbx** : The output of the project, a Tableau story that showcases the data we have scraped and the analysis
+- **DAT2021_WGS84.twbx** : The output of the project, a Tableau story that showcases the data we have scraped and the analysis
 - **Scrapers Folder** : Contains the two webscrapers as aforementioned
 - **Data Cleaning Folder** : Contains all the ipynbs created for the purposes of data cleaning and processing
