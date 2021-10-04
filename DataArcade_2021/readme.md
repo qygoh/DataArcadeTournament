@@ -23,6 +23,6 @@ In total, approximately 14k rows of data was scrapped from the webpages over thr
 
 ## Organization of this Repo
   
-- **DAT2021_WGS84.twbx** : The output of the project, a Tableau story that showcases the data we have scraped and the analysis. [Click to view it online here.](https://public.tableau.com/app/profile/qinyu.goh/viz/AllaboutthatDoubleDigitDaySalesHype/Final)
+- **DAT2021_WGS84.twbx** : The output of the project, a Tableau story that showcases the data we have scraped and the analysis. [Click to view it online here.](https://public.tableau.com/app/profile/qy.goh/viz/AllaboutthatDoubleDigitDaySalesHype/Final)
 - **Scrapers Folder** : Contains the two webscrapers as aforementioned
 - **Data Cleaning Folder** : Contains all the ipynbs created for the purposes of data cleaning and processing
