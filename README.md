@@ -1,12 +1,10 @@
-# PassionFruit
-TLDR; Random Passion Projects! 
+# DATA ARCADE TOURNAMENTS
+TLDR; Contains submission for the Singapore Public Service Tableau competitions
 
-**Background** 
+**More information** 
 
-Inspiried by the New York Culture, we decided that its time to stop being plain Janes stuck in our 9-5 jobs. 'Cause when opportunities don't come knocking your way, you create them.  
+Data Arcade Tournament (DAT) is an annual visual analytics competition exercise for officers serving in the Singapore Public Service. This folder contains all the submissions made for the compeition, currently standing at 2 entires for year of 2020 and 2021 respectively. 
 
-This is our quest to try to find ways in which we can practice our *embrassingly limited "tech skills"*, applied in projects that we think is fun/ interesting. We might not be the ones destined to save the world with our tech skills, but we can save ourselves from our boredom. 
+**Special shoutouts**
 
-**Organization of this Repo**
-
-Two main folders, for two of the current contributors- Sherms and QY. Click on each folder to explore the passion projects done by each individual respectively. 
+To Shermaine @shermwkm and Shan Yi for being part of the team! 
