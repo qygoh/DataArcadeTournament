@@ -5,6 +5,8 @@ TLDR; Contains submission for the Singapore Public Service Tableau competitions
 
 Data Arcade Tournament (DAT) is an annual visual analytics competition exercise for officers serving in the Singapore Public Service. This folder contains all the submissions made for the compeition, currently standing at 2 entires for year of 2020 and 2021 respectively. 
 
+Coincidentally (or not lol), the team decided to do web scraping for both submissions so far. 
+
 **Special shoutouts**
 
 To Shermaine @shermwkm and Shan Yi for being part of the team! 
